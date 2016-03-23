@@ -1,7 +1,6 @@
 # Head-First-Java-code
 
 Paul Barry 著、蔣大偉 譯
-
 出版商: 歐萊禮
 出版日期： 2011-11-29
 台幣定價:$780
